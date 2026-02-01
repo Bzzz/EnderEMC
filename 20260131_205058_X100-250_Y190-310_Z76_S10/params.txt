@@ -1,0 +1,9 @@
+xstart = 100.0
+ystart = 190.0
+xend = 250.0
+yend = 310.0
+step = 10.0
+z = 76.0
+start = 100000.0
+stop = 1000000000.0
+decades = 1.0
